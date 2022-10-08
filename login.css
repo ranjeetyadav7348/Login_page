@@ -1,0 +1,114 @@
+
+.img{
+    height:100vh;
+  
+   margin-top: -1.3%;
+    background: url("https://images.unsplash.com/photo-1662948099967-820a793a8013?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1856&q=80");
+   
+    background-size: cover;
+}
+.lg{
+    padding: 10% 0% 0% 10%;
+    display: flex;
+    flex-direction: column;
+    background-color: linear-gradient(rgb(52, 22, 22));
+    color: white;
+    
+}
+#top{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#right{
+   
+    line-height: 50%;
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+
+
+}
+#us{
+    padding: 8px 10px;
+    width: 300px;
+   font-size: 16px;
+   border: 1px solid #ccd0d5;
+
+
+}
+#pas{
+    padding: 8px 10px;
+    width: 300px;
+    margin-top: 3px;
+   font-size: 16px;
+   border: 1px solid #ccd0d5;
+}
+#sub{
+   text-align: center;
+   align-self:center ;
+margin: 8px 10px 0px 70px;
+    width: 150px;
+    height: 40px;
+    box-shadow: inset 0px 1px 1px orange;
+   font-size: 20px;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+border-color: orange;
+color: azure;
+cursor: pointer;
+border-radius: 1px;
+background-image: linear-gradient(rgb(192, 121, 14),rgb(184, 145, 72));
+
+
+
+}
+.lower{
+    margin-left: -100px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+}
+#sign{
+    margin-top: -10px;
+    color: orange;
+}
+
+.vi{
+    display: flex;
+    flex-direction:row;
+}
+#b{
+    color: linear-gradient;
+}
+.vi{
+    margin-top: 5px;
+    margin: 2em;
+}
+.vi i{
+
+    color: white;
+margin: .2em;
+}
+.k{
+    color: white;
+    display: flex;
+    flex-direction: column;
+   
+}
+.n{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.virat{
+    font-style:initial;
+    font-size: 20px;
+    font-size: bolder;
+    margin-top: 9em;
+    text-align: center;
+}
+#btnn{
+    margin-left:360px;
+    width: 100px;
+}
